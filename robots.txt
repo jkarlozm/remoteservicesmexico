@@ -1,4 +1,4 @@
-# Archivo robots.txt para jkarlozm.github.io
+# Archivo robots.txt para remoteservicesmexico.com
 
 # Directivas para todos los bots
 User-agent: *
